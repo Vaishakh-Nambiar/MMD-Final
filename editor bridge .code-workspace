@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../editor bridge "
+		},
+		{
+			"path": "../Downloads/fokus-main"
+		},
+		{
+			"path": "../vision transformer"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
